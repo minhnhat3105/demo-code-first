@@ -1,0 +1,15 @@
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.csproj.AssemblyReference.cache
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.AssemblyInfoInputs.cache
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.AssemblyInfo.cs
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.csproj.CoreCompileInputs.cache
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\bin\Debug\net6.0\appsettings.json
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\bin\Debug\net6.0\DemoCodeFirst.Data.deps.json
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\bin\Debug\net6.0\DemoCodeFirst.Data.runtimeconfig.json
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\bin\Debug\net6.0\DemoCodeFirst.Data.dll
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\bin\Debug\net6.0\DemoCodeFirst.Data.pdb
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.dll
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\refint\DemoCodeFirst.Data.dll
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.pdb
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\DemoCodeFirst.Data.genruntimeconfig.cache
+D:\Practice\ITCGroup\practices\DemoCodeFirst\DemoCodeFirst.Data\obj\Debug\net6.0\ref\DemoCodeFirst.Data.dll
