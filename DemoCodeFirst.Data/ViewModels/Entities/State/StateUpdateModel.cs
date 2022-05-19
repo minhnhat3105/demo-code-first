@@ -2,10 +2,10 @@
 
 namespace DemoCodeFirst.Data.ViewModels.Entities.State
 {
-    public class StateInsertModel
+    public class StateUpdateModel
     {
-        [JsonPropertyName("country_id")]
-        public int CountryId { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
+        public bool? Status { get; set; }    
     }
 }

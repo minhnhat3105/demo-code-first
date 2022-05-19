@@ -23,7 +23,7 @@ namespace DemoCodeFirst.Data.Repository.GenericRepo
 
         public async Task<T> Get(int id)
         {
-            return await _entities.FirstOrDefaultAsync(param => param.Equals(id));
+            return await _entities.FindAsync(id);
         }
 
         public async Task<int> Insert(T entity)

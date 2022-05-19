@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace DemoCodeFirst.Data.ViewModels.City
+namespace DemoCodeFirst.Data.ViewModels.Entities.City
 {
     public class CityInsertModel
     {
